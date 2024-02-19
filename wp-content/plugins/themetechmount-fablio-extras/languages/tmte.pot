@@ -1,0 +1,1801 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: ThemeTechMount Extras for Fablio Theme\n"
+"POT-Creation-Date: 2019-10-03 18:33+0530\n"
+"PO-Revision-Date: 2019-10-03 11:48+0530\n"
+"Last-Translator: \n"
+"Language-Team: ThemeTechMount Team <themetechmount@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c;"
+"_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;esc_attr__;esc_attr_e;"
+"esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../custom-post-types/tm-client.php:7
+msgctxt "post type general name"
+msgid "Clients"
+msgstr ""
+
+#: ../custom-post-types/tm-client.php:8
+msgctxt "post type singular name"
+msgid "Client"
+msgstr ""
+
+#: ../custom-post-types/tm-client.php:9
+msgctxt "admin menu"
+msgid "Client Logos"
+msgstr ""
+
+#: ../custom-post-types/tm-client.php:10
+msgctxt "add new on admin bar"
+msgid "Client"
+msgstr ""
+
+#: ../custom-post-types/tm-client.php:11
+msgctxt "client"
+msgid "Add New"
+msgstr ""
+
+#: ../custom-post-types/tm-client.php:12
+msgid "Add New Client"
+msgstr ""
+
+#: ../custom-post-types/tm-client.php:13
+msgid "New Client"
+msgstr ""
+
+#: ../custom-post-types/tm-client.php:14
+msgid "Edit Client"
+msgstr ""
+
+#: ../custom-post-types/tm-client.php:15
+msgid "View Client"
+msgstr ""
+
+#: ../custom-post-types/tm-client.php:16
+msgid "All Clients"
+msgstr ""
+
+#: ../custom-post-types/tm-client.php:17
+msgid "Search Client"
+msgstr ""
+
+#: ../custom-post-types/tm-client.php:18
+msgid "Parent Client:"
+msgstr ""
+
+#: ../custom-post-types/tm-client.php:19
+msgid "No client found."
+msgstr ""
+
+#: ../custom-post-types/tm-client.php:20
+msgid "No client found in Trash."
+msgstr ""
+
+#: ../custom-post-types/tm-client.php:48
+msgctxt "taxonomy general name"
+msgid "Client Group"
+msgstr ""
+
+#: ../custom-post-types/tm-client.php:49
+msgctxt "taxonomy singular name"
+msgid "Client Group"
+msgstr ""
+
+#: ../custom-post-types/tm-client.php:50
+msgid "Search Client Group"
+msgstr ""
+
+#: ../custom-post-types/tm-client.php:51
+msgid "All Client Groups"
+msgstr ""
+
+#: ../custom-post-types/tm-client.php:52 ../custom-post-types/tm-slides.php:51
+#: ../custom-post-types/tm-team.php:91 ../custom-post-types/tm-testimonial.php:54
+msgid "Parent Group"
+msgstr ""
+
+#: ../custom-post-types/tm-client.php:53 ../custom-post-types/tm-slides.php:52
+#: ../custom-post-types/tm-team.php:92 ../custom-post-types/tm-testimonial.php:55
+msgid "Parent Group:"
+msgstr ""
+
+#: ../custom-post-types/tm-client.php:54 ../custom-post-types/tm-slides.php:53
+#: ../custom-post-types/tm-team.php:93 ../custom-post-types/tm-testimonial.php:56
+msgid "Edit Group"
+msgstr ""
+
+#: ../custom-post-types/tm-client.php:55 ../custom-post-types/tm-slides.php:54
+#: ../custom-post-types/tm-team.php:94 ../custom-post-types/tm-testimonial.php:57
+msgid "Update Group"
+msgstr ""
+
+#: ../custom-post-types/tm-client.php:56
+msgid "Add New Client Group"
+msgstr ""
+
+#: ../custom-post-types/tm-client.php:57
+msgid "New Client Group Name"
+msgstr ""
+
+#: ../custom-post-types/tm-client.php:58
+msgid "Client Group"
+msgstr ""
+
+#: ../custom-post-types/tm-client.php:77
+msgid "Client Name"
+msgstr ""
+
+#: ../custom-post-types/tm-client.php:90
+msgid "Select/Upload Image of the Client"
+msgstr ""
+
+#: ../custom-post-types/tm-client.php:112 ../custom-post-types/tm-portfolio.php:150
+#: ../custom-post-types/tm-portfolio.php:336 ../custom-post-types/tm-service.php:150
+#: ../custom-post-types/tm-service.php:305 ../custom-post-types/tm-team.php:163
+#: ../custom-post-types/tm-testimonial.php:113 ../themetechmount-fablio-extras.php:553
+msgid "Featured Image"
+msgstr ""
+
+#: ../custom-post-types/tm-client.php:147
+msgid "Fablio: Client Details"
+msgstr ""
+
+#: ../custom-post-types/tm-client.php:159 ../custom-post-types/tm-testimonial.php:160
+msgid "Website Link"
+msgstr ""
+
+#: ../custom-post-types/tm-client.php:160 ../custom-post-types/tm-testimonial.php:161
+msgid "(Optional) Please fill person or company's website link"
+msgstr ""
+
+#: ../custom-post-types/tm-portfolio.php:20
+msgctxt "post type general name"
+msgid "Portfolio"
+msgstr ""
+
+#: ../custom-post-types/tm-portfolio.php:21
+msgctxt "post type singular name"
+msgid "Portfolio"
+msgstr ""
+
+#: ../custom-post-types/tm-portfolio.php:22
+msgctxt "admin menu"
+msgid "Portfolio"
+msgstr ""
+
+#: ../custom-post-types/tm-portfolio.php:23
+msgctxt "add new on admin bar"
+msgid "Portfolio"
+msgstr ""
+
+#: ../custom-post-types/tm-portfolio.php:24 ../custom-post-types/tm-portfolio.php:47
+msgctxt "portfolio"
+msgid "Add New"
+msgstr ""
+
+#: ../custom-post-types/tm-portfolio.php:25
+msgid "Add New Portfolio"
+msgstr ""
+
+#: ../custom-post-types/tm-portfolio.php:26
+msgid "New Portfolio"
+msgstr ""
+
+#: ../custom-post-types/tm-portfolio.php:27
+msgid "Edit Portfolio"
+msgstr ""
+
+#: ../custom-post-types/tm-portfolio.php:28
+msgid "View Portfolio"
+msgstr ""
+
+#: ../custom-post-types/tm-portfolio.php:29
+msgid "All Portfolio"
+msgstr ""
+
+#: ../custom-post-types/tm-portfolio.php:30
+msgid "Search Portfolio"
+msgstr ""
+
+#: ../custom-post-types/tm-portfolio.php:31
+msgid "Parent Portfolio:"
+msgstr ""
+
+#: ../custom-post-types/tm-portfolio.php:32
+msgid "No portfolio found."
+msgstr ""
+
+#: ../custom-post-types/tm-portfolio.php:33
+msgid "No portfolio found in Trash."
+msgstr ""
+
+#: ../custom-post-types/tm-portfolio.php:48 ../custom-post-types/tm-service.php:48
+#: ../custom-post-types/tm-team.php:49
+msgid "Add New "
+msgstr ""
+
+#: ../custom-post-types/tm-portfolio.php:49 ../custom-post-types/tm-service.php:49
+#: ../custom-post-types/tm-team.php:50
+msgid "New "
+msgstr ""
+
+#: ../custom-post-types/tm-portfolio.php:50 ../custom-post-types/tm-service.php:50
+#: ../custom-post-types/tm-team.php:51
+msgid "Edit "
+msgstr ""
+
+#: ../custom-post-types/tm-portfolio.php:51 ../custom-post-types/tm-service.php:51
+#: ../custom-post-types/tm-team.php:52
+msgid "View "
+msgstr ""
+
+#: ../custom-post-types/tm-portfolio.php:52 ../custom-post-types/tm-service.php:52
+#: ../custom-post-types/tm-team.php:53
+msgid "All "
+msgstr ""
+
+#: ../custom-post-types/tm-portfolio.php:53 ../custom-post-types/tm-service.php:53
+#: ../custom-post-types/tm-team.php:54
+msgid "Search "
+msgstr ""
+
+#: ../custom-post-types/tm-portfolio.php:54 ../custom-post-types/tm-service.php:54
+#: ../custom-post-types/tm-team.php:55
+msgid "Parent "
+msgstr ""
+
+#: ../custom-post-types/tm-portfolio.php:55 ../custom-post-types/tm-portfolio.php:56
+#: ../custom-post-types/tm-service.php:55 ../custom-post-types/tm-service.php:56
+#: ../custom-post-types/tm-team.php:56 ../custom-post-types/tm-team.php:57
+msgid "No "
+msgstr ""
+
+#: ../custom-post-types/tm-portfolio.php:87 ../custom-post-types/tm-portfolio.php:88
+#: ../custom-post-types/tm-portfolio.php:97 ../custom-post-types/tm-portfolio.php:102
+msgid "Portfolio Category"
+msgstr ""
+
+#: ../custom-post-types/tm-portfolio.php:89
+msgid "Search Portfolio Category"
+msgstr ""
+
+#: ../custom-post-types/tm-portfolio.php:90
+msgid "All Portfolio Category"
+msgstr ""
+
+#: ../custom-post-types/tm-portfolio.php:91
+msgid "Parent Portfolio Category"
+msgstr ""
+
+#: ../custom-post-types/tm-portfolio.php:92
+msgid "Parent Portfolio Category:"
+msgstr ""
+
+#: ../custom-post-types/tm-portfolio.php:93
+msgid "Edit Portfolio Category"
+msgstr ""
+
+#: ../custom-post-types/tm-portfolio.php:94
+msgid "Update Portfolio Category"
+msgstr ""
+
+#: ../custom-post-types/tm-portfolio.php:95
+msgid "Add New Portfolio Category"
+msgstr ""
+
+#: ../custom-post-types/tm-portfolio.php:96
+msgid "New Portfolio Category Name"
+msgstr ""
+
+#: ../custom-post-types/tm-portfolio.php:105 ../custom-post-types/tm-portfolio.php:106
+#: ../custom-post-types/tm-portfolio.php:115 ../custom-post-types/tm-service.php:105
+#: ../custom-post-types/tm-service.php:106 ../custom-post-types/tm-service.php:115
+#: ../custom-post-types/tm-team.php:104 ../custom-post-types/tm-team.php:105
+#: ../custom-post-types/tm-team.php:114 ../tools.php:1968
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: ../custom-post-types/tm-portfolio.php:107 ../custom-post-types/tm-service.php:107
+#: ../custom-post-types/tm-team.php:106
+#, php-format
+msgid "Search %s"
+msgstr ""
+
+#: ../custom-post-types/tm-portfolio.php:108 ../custom-post-types/tm-service.php:108
+#: ../custom-post-types/tm-team.php:107
+#, php-format
+msgid "All %s"
+msgstr ""
+
+#: ../custom-post-types/tm-portfolio.php:109 ../custom-post-types/tm-service.php:109
+#: ../custom-post-types/tm-team.php:108
+#, php-format
+msgid "Parent %s"
+msgstr ""
+
+#: ../custom-post-types/tm-portfolio.php:110 ../custom-post-types/tm-service.php:110
+#: ../custom-post-types/tm-team.php:109
+#, php-format
+msgid "Parent %s:"
+msgstr ""
+
+#: ../custom-post-types/tm-portfolio.php:111 ../custom-post-types/tm-service.php:111
+#: ../custom-post-types/tm-team.php:110
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: ../custom-post-types/tm-portfolio.php:112 ../custom-post-types/tm-service.php:112
+#: ../custom-post-types/tm-team.php:111
+#, php-format
+msgid "Update %s"
+msgstr ""
+
+#: ../custom-post-types/tm-portfolio.php:113 ../custom-post-types/tm-service.php:113
+#: ../custom-post-types/tm-team.php:112
+#, php-format
+msgid "Add New %s"
+msgstr ""
+
+#: ../custom-post-types/tm-portfolio.php:114 ../custom-post-types/tm-service.php:114
+#: ../custom-post-types/tm-team.php:113
+#, php-format
+msgid "New %s Name"
+msgstr ""
+
+#: ../custom-post-types/tm-portfolio.php:276
+msgid ""
+"There is no option to show. Please create some options from \"Theme Options > "
+"Portfolio Settings\" section."
+msgstr ""
+
+#: ../custom-post-types/tm-portfolio.php:294
+#, php-format
+msgid "Fablio: %s List Options"
+msgstr ""
+
+#: ../custom-post-types/tm-portfolio.php:306
+msgid "List Values"
+msgstr ""
+
+#: ../custom-post-types/tm-portfolio.php:309 ../custom-post-types/tm-team.php:292
+msgid ""
+"You can add values of this each line and the line will appear on front side. The "
+"empty value line will be hidden."
+msgstr ""
+
+#: ../custom-post-types/tm-portfolio.php:309
+#, php-format
+msgid ""
+"You can manage (change icon or title of the line) from \"Theme Opitons > %s Settings"
+"\" section."
+msgstr ""
+
+#: ../custom-post-types/tm-portfolio.php:322 ../custom-post-types/tm-service.php:291
+msgid "Fablio: Featured Image / Video / Slider"
+msgstr ""
+
+#: ../custom-post-types/tm-portfolio.php:334 ../custom-post-types/tm-service.php:303
+msgid "Featured Image / Video / Slider"
+msgstr ""
+
+#: ../custom-post-types/tm-portfolio.php:337 ../custom-post-types/tm-service.php:306
+msgid "Video (YouTube or Vimeo)"
+msgstr ""
+
+#: ../custom-post-types/tm-portfolio.php:338 ../custom-post-types/tm-service.php:307
+msgid "Audio (SoundCloud embed code)"
+msgstr ""
+
+#: ../custom-post-types/tm-portfolio.php:339 ../custom-post-types/tm-service.php:308
+msgid "Image Slider"
+msgstr ""
+
+#: ../custom-post-types/tm-portfolio.php:342 ../custom-post-types/tm-service.php:311
+msgid "Select what you want to show as featured. Image or Video"
+msgstr ""
+
+#: ../custom-post-types/tm-portfolio.php:350 ../custom-post-types/tm-service.php:319
+msgid "Paste video url (oembed) or embed code."
+msgstr ""
+
+#: ../custom-post-types/tm-portfolio.php:356 ../custom-post-types/tm-service.php:325
+msgid "SoundCloud (or any other service) Embed Code or MP3 file path."
+msgstr ""
+
+#: ../custom-post-types/tm-portfolio.php:358 ../custom-post-types/tm-service.php:327
+msgid "Paste SoundCloud or any other service embed code here"
+msgstr ""
+
+#: ../custom-post-types/tm-portfolio.php:371 ../custom-post-types/tm-service.php:340
+msgid "Slider Images"
+msgstr ""
+
+#: ../custom-post-types/tm-portfolio.php:376 ../custom-post-types/tm-service.php:345
+msgid "Select images for Slider gallery."
+msgstr ""
+
+#: ../custom-post-types/tm-portfolio.php:391
+#, php-format
+msgid "Fablio: %s View Style"
+msgstr ""
+
+#: ../custom-post-types/tm-portfolio.php:403
+#, php-format
+msgid "%s View Style"
+msgstr ""
+
+#: ../custom-post-types/tm-portfolio.php:405
+msgid "Global"
+msgstr ""
+
+#: ../custom-post-types/tm-portfolio.php:406
+msgid "Left image and right content (default)"
+msgstr ""
+
+#: ../custom-post-types/tm-portfolio.php:407
+msgid "Top image and bottom content"
+msgstr ""
+
+#: ../custom-post-types/tm-portfolio.php:408
+msgid "No image and full-width content (without details box)"
+msgstr ""
+
+#: ../custom-post-types/tm-portfolio.php:409
+msgid "Top image and full-width content (without details box)"
+msgstr ""
+
+#: ../custom-post-types/tm-portfolio.php:412
+#, php-format
+msgid "Select view for single %s"
+msgstr ""
+
+#: ../custom-post-types/tm-portfolio.php:425
+msgid "Fablio: Portfolio Like Option"
+msgstr ""
+
+#: ../custom-post-types/tm-portfolio.php:437
+msgid "Portfolio Reset Likes"
+msgstr ""
+
+#: ../custom-post-types/tm-portfolio.php:439
+msgid "YES, Reset Likes"
+msgstr ""
+
+#: ../custom-post-types/tm-portfolio.php:441
+msgid ""
+"This will make the LIKE count to zero. For this portfolio only. If you like to reset "
+"LIKE for all portfolio than please go to \"Theme Options > Advanced Settings\" section"
+msgstr ""
+
+#: ../custom-post-types/tm-service.php:20
+msgctxt "post type general name"
+msgid "Service"
+msgstr ""
+
+#: ../custom-post-types/tm-service.php:21
+msgctxt "post type singular name"
+msgid "Service"
+msgstr ""
+
+#: ../custom-post-types/tm-service.php:22
+msgctxt "admin menu"
+msgid "Service"
+msgstr ""
+
+#: ../custom-post-types/tm-service.php:23
+msgctxt "add new on admin bar"
+msgid "Service"
+msgstr ""
+
+#: ../custom-post-types/tm-service.php:24 ../custom-post-types/tm-service.php:47
+msgctxt "service"
+msgid "Add New"
+msgstr ""
+
+#: ../custom-post-types/tm-service.php:25
+msgid "Add New Service"
+msgstr ""
+
+#: ../custom-post-types/tm-service.php:26
+msgid "New Service"
+msgstr ""
+
+#: ../custom-post-types/tm-service.php:27
+msgid "Edit Service"
+msgstr ""
+
+#: ../custom-post-types/tm-service.php:28
+msgid "View Service"
+msgstr ""
+
+#: ../custom-post-types/tm-service.php:29
+msgid "All Service"
+msgstr ""
+
+#: ../custom-post-types/tm-service.php:30
+msgid "Search Service"
+msgstr ""
+
+#: ../custom-post-types/tm-service.php:31
+msgid "Parent Service:"
+msgstr ""
+
+#: ../custom-post-types/tm-service.php:32
+msgid "No Service found."
+msgstr ""
+
+#: ../custom-post-types/tm-service.php:33
+msgid "No Service found in Trash."
+msgstr ""
+
+#: ../custom-post-types/tm-service.php:87 ../custom-post-types/tm-service.php:88
+#: ../custom-post-types/tm-service.php:97 ../custom-post-types/tm-service.php:102
+msgid "Service Category"
+msgstr ""
+
+#: ../custom-post-types/tm-service.php:89
+msgid "Search Service Category"
+msgstr ""
+
+#: ../custom-post-types/tm-service.php:90
+msgid "All Service Category"
+msgstr ""
+
+#: ../custom-post-types/tm-service.php:91
+msgid "Parent Service Category"
+msgstr ""
+
+#: ../custom-post-types/tm-service.php:92
+msgid "Parent Service Category:"
+msgstr ""
+
+#: ../custom-post-types/tm-service.php:93
+msgid "Edit Service Category"
+msgstr ""
+
+#: ../custom-post-types/tm-service.php:94
+msgid "Update Service Category"
+msgstr ""
+
+#: ../custom-post-types/tm-service.php:95
+msgid "Add New Service Category"
+msgstr ""
+
+#: ../custom-post-types/tm-service.php:96
+msgid "New Service Category Name"
+msgstr ""
+
+#: ../custom-post-types/tm-service.php:270
+msgid ""
+"There is no option to show. Please create some options from \"Theme Options > Service "
+"Settings\" section."
+msgstr ""
+
+#: ../custom-post-types/tm-service.php:358
+msgid "Fablio: Service icon"
+msgstr ""
+
+#: ../custom-post-types/tm-service.php:370
+msgid "Service Icon"
+msgstr ""
+
+#: ../custom-post-types/tm-service.php:371
+msgid "(Optional) Please select icon for Servicebox element"
+msgstr ""
+
+#: ../custom-post-types/tm-slides.php:8
+msgctxt "post type general name"
+msgid "Slides"
+msgstr ""
+
+#: ../custom-post-types/tm-slides.php:9
+msgctxt "post type singular name"
+msgid "Slide"
+msgstr ""
+
+#: ../custom-post-types/tm-slides.php:10
+msgctxt "admin menu"
+msgid "Slides"
+msgstr ""
+
+#: ../custom-post-types/tm-slides.php:11
+msgctxt "add new on admin bar"
+msgid "Slide"
+msgstr ""
+
+#: ../custom-post-types/tm-slides.php:12
+msgctxt "slide"
+msgid "Add New"
+msgstr ""
+
+#: ../custom-post-types/tm-slides.php:13
+msgid "Add New Slide"
+msgstr ""
+
+#: ../custom-post-types/tm-slides.php:14
+msgid "New Slide"
+msgstr ""
+
+#: ../custom-post-types/tm-slides.php:15
+msgid "Edit Slide"
+msgstr ""
+
+#: ../custom-post-types/tm-slides.php:16
+msgid "View Slide"
+msgstr ""
+
+#: ../custom-post-types/tm-slides.php:17
+msgid "All Slides"
+msgstr ""
+
+#: ../custom-post-types/tm-slides.php:18
+msgid "Search Slide"
+msgstr ""
+
+#: ../custom-post-types/tm-slides.php:19
+msgid "Parent Slide:"
+msgstr ""
+
+#: ../custom-post-types/tm-slides.php:20
+msgid "No slide found."
+msgstr ""
+
+#: ../custom-post-types/tm-slides.php:21
+msgid "No slide found in Trash."
+msgstr ""
+
+#: ../custom-post-types/tm-slides.php:47
+msgctxt "taxonomy general name"
+msgid "Slide Group"
+msgstr ""
+
+#: ../custom-post-types/tm-slides.php:48
+msgctxt "taxonomy singular name"
+msgid "Slide Group"
+msgstr ""
+
+#: ../custom-post-types/tm-slides.php:49 ../custom-post-types/tm-team.php:89
+#: ../custom-post-types/tm-testimonial.php:52
+msgid "Search Group"
+msgstr ""
+
+#: ../custom-post-types/tm-slides.php:50 ../custom-post-types/tm-testimonial.php:53
+msgid "All Groups"
+msgstr ""
+
+#: ../custom-post-types/tm-slides.php:55 ../custom-post-types/tm-team.php:95
+#: ../custom-post-types/tm-testimonial.php:58
+msgid "Add New Group"
+msgstr ""
+
+#: ../custom-post-types/tm-slides.php:56 ../custom-post-types/tm-team.php:96
+#: ../custom-post-types/tm-testimonial.php:59
+msgid "New Group Name"
+msgstr ""
+
+#: ../custom-post-types/tm-slides.php:57
+msgid "Slide Group"
+msgstr ""
+
+#: ../custom-post-types/tm-slides.php:77
+msgid "Slide Image"
+msgstr ""
+
+#: ../custom-post-types/tm-slides.php:96
+msgid "Fablio: Slide Options"
+msgstr ""
+
+#: ../custom-post-types/tm-slides.php:103
+msgid "Slide Options"
+msgstr ""
+
+#: ../custom-post-types/tm-slides.php:103
+msgid "Options for Slides"
+msgstr ""
+
+#: ../custom-post-types/tm-slides.php:109
+msgid "Description"
+msgstr ""
+
+#: ../custom-post-types/tm-slides.php:110
+msgid "Add description text for this slide"
+msgstr ""
+
+#: ../custom-post-types/tm-slides.php:115
+msgid "Button Text"
+msgstr ""
+
+#: ../custom-post-types/tm-slides.php:116
+msgid "Add text for button"
+msgstr ""
+
+#: ../custom-post-types/tm-slides.php:121
+msgid "Button Link"
+msgstr ""
+
+#: ../custom-post-types/tm-slides.php:122
+msgid "Add URL for button"
+msgstr ""
+
+#: ../custom-post-types/tm-team.php:23
+msgctxt "Team Member CPT general name"
+msgid "Team Members"
+msgstr ""
+
+#: ../custom-post-types/tm-team.php:24
+msgctxt "Team Member CPT singular name"
+msgid "Team Member"
+msgstr ""
+
+#: ../custom-post-types/tm-team.php:25
+msgctxt "Team Member CPT admin menu"
+msgid "Team Member"
+msgstr ""
+
+#: ../custom-post-types/tm-team.php:26
+msgctxt "Team Member CPT add new on admin bar"
+msgid "Team Member"
+msgstr ""
+
+#: ../custom-post-types/tm-team.php:27 ../custom-post-types/tm-team.php:48
+msgctxt "Team Member CPT"
+msgid "Add New"
+msgstr ""
+
+#: ../custom-post-types/tm-team.php:28
+msgid "Add New Team Member"
+msgstr ""
+
+#: ../custom-post-types/tm-team.php:29
+msgid "New Team Member"
+msgstr ""
+
+#: ../custom-post-types/tm-team.php:30
+msgid "Edit Team Member"
+msgstr ""
+
+#: ../custom-post-types/tm-team.php:31
+msgid "View Team Member"
+msgstr ""
+
+#: ../custom-post-types/tm-team.php:32
+msgid "All Team Members"
+msgstr ""
+
+#: ../custom-post-types/tm-team.php:33
+msgid "Search Team Member"
+msgstr ""
+
+#: ../custom-post-types/tm-team.php:34
+msgid "Parent Team Member:"
+msgstr ""
+
+#: ../custom-post-types/tm-team.php:35
+msgid "No team member found."
+msgstr ""
+
+#: ../custom-post-types/tm-team.php:36
+msgid "No team member found in Trash."
+msgstr ""
+
+#: ../custom-post-types/tm-team.php:87
+msgctxt "taxonomy general name"
+msgid "Team Group"
+msgstr ""
+
+#: ../custom-post-types/tm-team.php:88
+msgctxt "taxonomy singular name"
+msgid "Team Group"
+msgstr ""
+
+#: ../custom-post-types/tm-team.php:90
+msgid "All Team Groups"
+msgstr ""
+
+#: ../custom-post-types/tm-team.php:97 ../custom-post-types/tm-team.php:101
+msgid "Team Group"
+msgstr ""
+
+#: ../custom-post-types/tm-team.php:101
+msgid "Team Groups"
+msgstr ""
+
+#: ../custom-post-types/tm-team.php:140
+#, php-format
+msgid "%s's Image"
+msgstr ""
+
+#: ../custom-post-types/tm-team.php:206
+#, php-format
+msgid "%s's General Details"
+msgstr ""
+
+#: ../custom-post-types/tm-team.php:211
+msgid "Position"
+msgstr ""
+
+#: ../custom-post-types/tm-team.php:216 ../tools.php:1626
+#: ../widgets/contact-widget.php:261
+msgid "Email"
+msgstr ""
+
+#: ../custom-post-types/tm-team.php:221 ../tools.php:1621
+#: ../widgets/contact-widget.php:256
+msgid "Phone"
+msgstr ""
+
+#: ../custom-post-types/tm-team.php:226 ../tools.php:1637
+#: ../widgets/contact-widget.php:266
+msgid "Website"
+msgstr ""
+
+#: ../custom-post-types/tm-team.php:233
+#, php-format
+msgid "You can add extra lines from Theme Opitons > %s Settings\" section."
+msgstr ""
+
+#: ../custom-post-types/tm-team.php:239
+#, php-format
+msgid ""
+"%s's Extra Details: You can add values of this each line and the line will appear on "
+"front side. The empty value line will be hidden."
+msgstr ""
+
+#: ../custom-post-types/tm-team.php:240
+#, php-format
+msgid ""
+"You can manage (change icon or title of the line) from Theme Opitons > %s Settings\" "
+"section."
+msgstr ""
+
+#: ../custom-post-types/tm-team.php:244
+#, php-format
+msgid "%s's Extra Details"
+msgstr ""
+
+#: ../custom-post-types/tm-team.php:256
+#, php-format
+msgid ""
+"This extra field is added from \"Theme Options > %s Settings\" section. You can "
+"manage this field from that section."
+msgstr ""
+
+#: ../custom-post-types/tm-team.php:279
+#, php-format
+msgid "Fablio: %s's Details"
+msgstr ""
+
+#: ../custom-post-types/tm-team.php:292
+#, php-format
+msgid "%s's General Details:"
+msgstr ""
+
+#: ../custom-post-types/tm-team.php:306
+#, php-format
+msgid "Fablio: %s's Social Links"
+msgstr ""
+
+#: ../custom-post-types/tm-team.php:320
+msgid "Social Links"
+msgstr ""
+
+#: ../custom-post-types/tm-team.php:321
+msgid ""
+"Add your social services here. Also you can reorder the Social Links as per your "
+"choice. Just drag and drop items to reorder and save settings"
+msgstr ""
+
+#: ../custom-post-types/tm-team.php:322
+msgid "Add New Social Links"
+msgstr ""
+
+#: ../custom-post-types/tm-team.php:328
+msgid "Social Sevice"
+msgstr ""
+
+#: ../custom-post-types/tm-team.php:330
+msgid "Twitter"
+msgstr ""
+
+#: ../custom-post-types/tm-team.php:331
+msgid "YouTube"
+msgstr ""
+
+#: ../custom-post-types/tm-team.php:332
+msgid "Flickr"
+msgstr ""
+
+#: ../custom-post-types/tm-team.php:333
+msgid "Facebook"
+msgstr ""
+
+#: ../custom-post-types/tm-team.php:334
+msgid "LinkedIn"
+msgstr ""
+
+#: ../custom-post-types/tm-team.php:335
+msgid "Google+"
+msgstr ""
+
+#: ../custom-post-types/tm-team.php:336
+msgid "Yelp"
+msgstr ""
+
+#: ../custom-post-types/tm-team.php:337
+msgid "Dribbble"
+msgstr ""
+
+#: ../custom-post-types/tm-team.php:338
+msgid "Pinterest"
+msgstr ""
+
+#: ../custom-post-types/tm-team.php:339
+msgid "Podcast"
+msgstr ""
+
+#: ../custom-post-types/tm-team.php:340
+msgid "Instagram"
+msgstr ""
+
+#: ../custom-post-types/tm-team.php:341
+msgid "Xing"
+msgstr ""
+
+#: ../custom-post-types/tm-team.php:342
+msgid "Vimeo"
+msgstr ""
+
+#: ../custom-post-types/tm-team.php:343
+msgid "VK"
+msgstr ""
+
+#: ../custom-post-types/tm-team.php:344
+msgid "Houzz"
+msgstr ""
+
+#: ../custom-post-types/tm-team.php:345
+msgid "Issuu"
+msgstr ""
+
+#: ../custom-post-types/tm-team.php:346
+msgid "Google Drive"
+msgstr ""
+
+#: ../custom-post-types/tm-team.php:347
+msgid "RSS"
+msgstr ""
+
+#: ../custom-post-types/tm-team.php:351
+msgid "Select Social service from here"
+msgstr ""
+
+#: ../custom-post-types/tm-team.php:356
+msgid "Link to Social service selected above"
+msgstr ""
+
+#: ../custom-post-types/tm-team.php:357
+msgid "Paste URL only"
+msgstr ""
+
+#: ../custom-post-types/tm-testimonial.php:10
+msgctxt "Testimonials post type general name"
+msgid "Testimonials"
+msgstr ""
+
+#: ../custom-post-types/tm-testimonial.php:11
+msgctxt "Testimonials post type singular name"
+msgid "Testimonial"
+msgstr ""
+
+#: ../custom-post-types/tm-testimonial.php:12
+msgctxt "Testimonials post type admin menu"
+msgid "Testimonials"
+msgstr ""
+
+#: ../custom-post-types/tm-testimonial.php:13
+msgctxt "Testimonials post type - add new on admin bar"
+msgid "Testimonial"
+msgstr ""
+
+#: ../custom-post-types/tm-testimonial.php:14
+msgctxt "testimonial"
+msgid "Add New"
+msgstr ""
+
+#: ../custom-post-types/tm-testimonial.php:15
+msgid "Add New Testimonial"
+msgstr ""
+
+#: ../custom-post-types/tm-testimonial.php:16
+msgid "New Testimonial"
+msgstr ""
+
+#: ../custom-post-types/tm-testimonial.php:17
+msgid "Edit Testimonial"
+msgstr ""
+
+#: ../custom-post-types/tm-testimonial.php:18
+msgid "View Testimonial"
+msgstr ""
+
+#: ../custom-post-types/tm-testimonial.php:19
+msgid "All Testimonials"
+msgstr ""
+
+#: ../custom-post-types/tm-testimonial.php:20
+msgid "Search Testimonial"
+msgstr ""
+
+#: ../custom-post-types/tm-testimonial.php:21
+msgid "Parent Testimonial:"
+msgstr ""
+
+#: ../custom-post-types/tm-testimonial.php:22
+msgid "No testimonial found."
+msgstr ""
+
+#: ../custom-post-types/tm-testimonial.php:23
+msgid "No testimonial found in Trash."
+msgstr ""
+
+#: ../custom-post-types/tm-testimonial.php:50
+msgctxt "taxonomy general name"
+msgid "Testimonial Group"
+msgstr ""
+
+#: ../custom-post-types/tm-testimonial.php:51
+msgctxt "taxonomy singular name"
+msgid "Testimonial Group"
+msgstr ""
+
+#: ../custom-post-types/tm-testimonial.php:60
+msgid "Testimonial Group"
+msgstr ""
+
+#: ../custom-post-types/tm-testimonial.php:80
+msgid "Person or Company Name"
+msgstr ""
+
+#: ../custom-post-types/tm-testimonial.php:91
+msgid "Select/Upload Image of Person or Company"
+msgstr ""
+
+#: ../custom-post-types/tm-testimonial.php:148
+msgid "Fablio: Testimonial Details"
+msgstr ""
+
+#: ../custom-post-types/tm-testimonial.php:166
+msgid "Person Designation or Company Name"
+msgstr ""
+
+#: ../custom-post-types/tm-testimonial.php:167
+msgid ""
+"(Optional) Please fill designation of the person. Fill Company name if it is a company"
+msgstr ""
+
+#: ../custom-post-types/tm-testimonial.php:172
+msgid "Select Star Ratings"
+msgstr ""
+
+#: ../custom-post-types/tm-testimonial.php:174
+msgid "One star"
+msgstr ""
+
+#: ../custom-post-types/tm-testimonial.php:175
+msgid "Two stars"
+msgstr ""
+
+#: ../custom-post-types/tm-testimonial.php:176
+msgid "Three stars"
+msgstr ""
+
+#: ../custom-post-types/tm-testimonial.php:177
+msgid "Four stars"
+msgstr ""
+
+#: ../custom-post-types/tm-testimonial.php:178
+msgid "Five stars"
+msgstr ""
+
+#: ../custom-post-types/tm-testimonial.php:181
+msgid "Please select star ratings."
+msgstr ""
+
+#: ../shortcodes/tm-team-details-single.php:12
+msgid "Contact"
+msgstr ""
+
+#: ../themetechmount-fablio-extras.php:211 ../themetechmount-fablio-extras.php:212
+msgid "Fablio Extra Options"
+msgstr ""
+
+#: ../themetechmount-fablio-extras.php:577
+msgid "Twitter Link"
+msgstr ""
+
+#: ../themetechmount-fablio-extras.php:578
+msgid "Facebook Link"
+msgstr ""
+
+#: ../themetechmount-fablio-extras.php:579
+msgid "LinkedIn Link"
+msgstr ""
+
+#: ../themetechmount-fablio-extras.php:580
+msgid "Google Plus Link"
+msgstr ""
+
+#: ../themetechmount-fablio-extras.php:829
+msgid "Left Sidebar for Blog"
+msgstr ""
+
+#: ../themetechmount-fablio-extras.php:831
+msgid "This is left sidebar for blog section"
+msgstr ""
+
+#: ../themetechmount-fablio-extras.php:839
+msgid "Right Sidebar for Blog"
+msgstr ""
+
+#: ../themetechmount-fablio-extras.php:841
+msgid "This is right sidebar for blog section"
+msgstr ""
+
+#: ../themetechmount-fablio-extras.php:849
+msgid "Left Sidebar for Pages"
+msgstr ""
+
+#: ../themetechmount-fablio-extras.php:851
+msgid "This is left sidebar for pages"
+msgstr ""
+
+#: ../themetechmount-fablio-extras.php:859
+msgid "Right Sidebar for Pages"
+msgstr ""
+
+#: ../themetechmount-fablio-extras.php:861
+msgid "This is right sidebar for pages"
+msgstr ""
+
+#: ../themetechmount-fablio-extras.php:870
+msgid "Left Sidebar for Portfolio"
+msgstr ""
+
+#: ../themetechmount-fablio-extras.php:872
+msgid "This is left sidebar for Portfolio"
+msgstr ""
+
+#: ../themetechmount-fablio-extras.php:880
+msgid "Right Sidebar for Portfolio"
+msgstr ""
+
+#: ../themetechmount-fablio-extras.php:882
+msgid "This is right sidebar for Portfolio"
+msgstr ""
+
+#: ../themetechmount-fablio-extras.php:890
+msgid "Left Sidebar for Portfolio Category"
+msgstr ""
+
+#: ../themetechmount-fablio-extras.php:892
+msgid "This is left sidebar for Portfolio Category pages."
+msgstr ""
+
+#: ../themetechmount-fablio-extras.php:900
+msgid "Right Sidebar for Portfolio Category"
+msgstr ""
+
+#: ../themetechmount-fablio-extras.php:902
+msgid "This is right sidebar for Portfolio Category pages."
+msgstr ""
+
+#: ../themetechmount-fablio-extras.php:911
+msgid "Left Sidebar for Service"
+msgstr ""
+
+#: ../themetechmount-fablio-extras.php:913
+msgid "This is left sidebar for Service"
+msgstr ""
+
+#: ../themetechmount-fablio-extras.php:921
+msgid "Right Sidebar for Service"
+msgstr ""
+
+#: ../themetechmount-fablio-extras.php:923
+msgid "This is right sidebar for Service"
+msgstr ""
+
+#: ../themetechmount-fablio-extras.php:931
+msgid "Left Sidebar for Service Category"
+msgstr ""
+
+#: ../themetechmount-fablio-extras.php:933
+msgid "This is left sidebar for Service Category pages."
+msgstr ""
+
+#: ../themetechmount-fablio-extras.php:941
+msgid "Right Sidebar for Service Category"
+msgstr ""
+
+#: ../themetechmount-fablio-extras.php:943
+msgid "This is right sidebar for Service Category pages."
+msgstr ""
+
+#: ../themetechmount-fablio-extras.php:952
+msgid "Left Sidebar for Team Member"
+msgstr ""
+
+#: ../themetechmount-fablio-extras.php:954
+msgid "This is left sidebar for Team Member"
+msgstr ""
+
+#: ../themetechmount-fablio-extras.php:963
+msgid "Right Sidebar for Team Member"
+msgstr ""
+
+#: ../themetechmount-fablio-extras.php:965
+msgid "This is right sidebar for Team Member"
+msgstr ""
+
+#: ../themetechmount-fablio-extras.php:973
+msgid "Left Sidebar for Team Member Group pages"
+msgstr ""
+
+#: ../themetechmount-fablio-extras.php:975
+msgid "This is left sidebar for Team Member Group."
+msgstr ""
+
+#: ../themetechmount-fablio-extras.php:983
+msgid "Right Sidebar for Team Member Group pages"
+msgstr ""
+
+#: ../themetechmount-fablio-extras.php:985
+msgid "This is right sidebar for Team Member Group"
+msgstr ""
+
+#: ../themetechmount-fablio-extras.php:993
+msgid "Left Sidebar for Search"
+msgstr ""
+
+#: ../themetechmount-fablio-extras.php:995
+msgid "This is left sidebar for search"
+msgstr ""
+
+#: ../themetechmount-fablio-extras.php:1003
+msgid "Right Sidebar for search"
+msgstr ""
+
+#: ../themetechmount-fablio-extras.php:1005
+msgid "This is right sidebar for search"
+msgstr ""
+
+#: ../themetechmount-fablio-extras.php:1015
+msgid "Left Sidebar for WooCommerce Shop"
+msgstr ""
+
+#: ../themetechmount-fablio-extras.php:1017
+msgid "This is left sidebar for WooCommerce shop pages."
+msgstr ""
+
+#: ../themetechmount-fablio-extras.php:1025
+msgid "Right Sidebar for WooCommerce Shop"
+msgstr ""
+
+#: ../themetechmount-fablio-extras.php:1027
+msgid "This is right sidebar for WooCommerce shop pages."
+msgstr ""
+
+#: ../themetechmount-fablio-extras.php:1038
+msgid "Left Sidebar for BBPress"
+msgstr ""
+
+#: ../themetechmount-fablio-extras.php:1040
+msgid "This is left sidebar for BBPress."
+msgstr ""
+
+#: ../themetechmount-fablio-extras.php:1048
+msgid "Right Sidebar for BBPress"
+msgstr ""
+
+#: ../themetechmount-fablio-extras.php:1050
+msgid "This is right sidebar for BBPress."
+msgstr ""
+
+#: ../themetechmount-fablio-extras.php:1061
+msgid "Left Sidebar for Events"
+msgstr ""
+
+#: ../themetechmount-fablio-extras.php:1063
+msgid "This is left sidebar for \"The Events Calendar\" plugin only."
+msgstr ""
+
+#: ../themetechmount-fablio-extras.php:1071
+msgid "Right Sidebar for Events"
+msgstr ""
+
+#: ../themetechmount-fablio-extras.php:1073
+msgid "This is right sidebar for \"The Events Calendar\" plugin only."
+msgstr ""
+
+#: ../themetechmount-fablio-extras.php:1082
+msgid "Floatingbar Widget - Top"
+msgstr ""
+
+#: ../themetechmount-fablio-extras.php:1084
+msgid ""
+"This widget will appear (as full width) before the widget columns. So you can set any "
+"full width content here."
+msgstr ""
+
+#: ../themetechmount-fablio-extras.php:1091
+msgid "Floatingbar Widget - 1st column"
+msgstr ""
+
+#: ../themetechmount-fablio-extras.php:1093
+msgid "Set 1st column widgets for Floatingbar area."
+msgstr ""
+
+#: ../themetechmount-fablio-extras.php:1100
+msgid "Floatingbar Widget - 2nd column"
+msgstr ""
+
+#: ../themetechmount-fablio-extras.php:1102
+msgid "Set 2nd column widgets for Floatingbar area."
+msgstr ""
+
+#: ../themetechmount-fablio-extras.php:1109
+msgid "Floatingbar Widget - 3rd column"
+msgstr ""
+
+#: ../themetechmount-fablio-extras.php:1111
+msgid "Set 3rd column widgets for Floatingbar area."
+msgstr ""
+
+#: ../themetechmount-fablio-extras.php:1118
+msgid "Floatingbar Widget - 4th column"
+msgstr ""
+
+#: ../themetechmount-fablio-extras.php:1120
+msgid "Set 4th column widgets for Floatingbar area."
+msgstr ""
+
+#: ../themetechmount-fablio-extras.php:1127
+msgid "Floatingbar Widget - Bottom"
+msgstr ""
+
+#: ../themetechmount-fablio-extras.php:1129
+msgid ""
+"This widget will appear (as full width) after the widget columns. So you can set any "
+"full width content here."
+msgstr ""
+
+#: ../themetechmount-fablio-extras.php:1140
+msgid "First Footer - 1st Widget Area"
+msgstr ""
+
+#: ../themetechmount-fablio-extras.php:1142
+msgid "This is first footer widget area for first row of footer."
+msgstr ""
+
+#: ../themetechmount-fablio-extras.php:1149
+msgid "First Footer - 2nd Widget Area"
+msgstr ""
+
+#: ../themetechmount-fablio-extras.php:1151
+msgid "This is second footer widget area for first row of footer."
+msgstr ""
+
+#: ../themetechmount-fablio-extras.php:1158
+msgid "First Footer - 3rd Widget Area"
+msgstr ""
+
+#: ../themetechmount-fablio-extras.php:1160
+msgid "This is third footer widget area for first row of footer."
+msgstr ""
+
+#: ../themetechmount-fablio-extras.php:1167
+msgid "First Footer - 4th Widget Area"
+msgstr ""
+
+#: ../themetechmount-fablio-extras.php:1169
+msgid "This is fourth footer widget area for first row of footer."
+msgstr ""
+
+#: ../themetechmount-fablio-extras.php:1178
+msgid "Second Footer - 1st Widget Area"
+msgstr ""
+
+#: ../themetechmount-fablio-extras.php:1180
+msgid "This is first footer widget area for second row of footer."
+msgstr ""
+
+#: ../themetechmount-fablio-extras.php:1187
+msgid "Second Footer - 2nd Widget Area"
+msgstr ""
+
+#: ../themetechmount-fablio-extras.php:1189
+msgid "This is second footer widget area for second row of footer."
+msgstr ""
+
+#: ../themetechmount-fablio-extras.php:1196
+msgid "Second Footer - 3rd Widget Area"
+msgstr ""
+
+#: ../themetechmount-fablio-extras.php:1198
+msgid "This is third footer widget area for second row of footer."
+msgstr ""
+
+#: ../themetechmount-fablio-extras.php:1205
+msgid "Second Footer - 4th Widget Area"
+msgstr ""
+
+#: ../themetechmount-fablio-extras.php:1207
+msgid "This is fourth footer widget area for second row of footer."
+msgstr ""
+
+#: ../themetechmount-fablio-extras.php:1228
+msgid "This is custom widget developed from \"Fablio Options\"."
+msgstr ""
+
+#: ../tools.php:220 ../tools.php:233
+msgid "Previous page"
+msgstr ""
+
+#: ../tools.php:221 ../tools.php:234
+msgid "Next page"
+msgstr ""
+
+#: ../tools.php:300
+msgid "Default"
+msgstr ""
+
+#: ../tools.php:574
+msgid "Comment navigation"
+msgstr ""
+
+#: ../tools.php:577
+msgid "Older Comments"
+msgstr ""
+
+#: ../tools.php:581
+msgid "Newer Comments"
+msgstr ""
+
+#: ../tools.php:641
+msgctxt "Used before publish date."
+msgid "Posted on"
+msgstr ""
+
+#: ../tools.php:666
+msgctxt "Used before post author name."
+msgid "Author"
+msgstr ""
+
+#: ../tools.php:681
+msgid "Leave a comment"
+msgstr ""
+
+#: ../tools.php:698
+msgctxt "Used before category names."
+msgid "Categories"
+msgstr ""
+
+#: ../tools.php:706 ../tools.php:3643 ../tools.php:3653
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ""
+
+#: ../tools.php:712
+msgctxt "Used before tag names."
+msgid "Tags"
+msgstr ""
+
+#: ../tools.php:1877
+msgid "Next"
+msgstr ""
+
+#: ../tools.php:1878
+msgid "Next post:"
+msgstr ""
+
+#: ../tools.php:1880
+msgid "Previous"
+msgstr ""
+
+#: ../tools.php:1881
+msgid "Previous post:"
+msgstr ""
+
+#: ../tools.php:2828
+msgid "All"
+msgstr ""
+
+#: ../tools.php:3033
+msgid "Content overlay on image view"
+msgstr ""
+
+#: ../tools.php:3034
+msgid "Top Image and Bottom Content view"
+msgstr ""
+
+#: ../tools.php:3054
+msgid "Top image and bottom content (default)"
+msgstr ""
+
+#: ../tools.php:3055
+msgid "Left image and right content "
+msgstr ""
+
+#: ../tools.php:3056
+msgid "Right image and left content "
+msgstr ""
+
+#: ../tools.php:3057
+msgid "Content overlay on image"
+msgstr ""
+
+#: ../tools.php:3076
+msgid "Overlay content on Image (Default)"
+msgstr ""
+
+#: ../tools.php:3077
+msgid "Left Image and Right Content"
+msgstr ""
+
+#: ../tools.php:3096
+msgid "Simple Logo view"
+msgstr ""
+
+#: ../tools.php:3097
+msgid "Logo with Separator view"
+msgstr ""
+
+#: ../tools.php:3098
+msgid "Boxed view"
+msgstr ""
+
+#: ../tools.php:3279
+msgid "Read More"
+msgstr ""
+
+#: ../tools.php:3839
+msgid "Blog"
+msgstr ""
+
+#: ../tools.php:3863
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: ../tools.php:3875
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: ../tools.php:3896
+#, php-format
+msgid "Posts classified under: %s"
+msgstr ""
+
+#: ../tools.php:3912
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+#: ../tools.php:3923
+#, php-format
+msgid "Search Results for %s"
+msgstr ""
+
+#: ../tools.php:3931
+msgid "EVENTS"
+msgstr ""
+
+#: ../tools.php:3939
+msgid "Events Calendar"
+msgstr ""
+
+#: ../tools.php:3945
+msgid "Events"
+msgstr ""
+
+#: ../tools.php:3952
+msgid "Events on: "
+msgstr ""
+
+#: ../tools.php:3960 ../tools.php:3971
+msgid "Forum"
+msgstr ""
+
+#: ../tools.php:3964
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: ../tools.php:3966
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: ../tools.php:3966
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: ../tools.php:3968
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: ../tools.php:3968
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: ../tools.php:3973
+msgid "Archives"
+msgstr ""
+
+#: ../tools.php:4543 ../tools.php:5018
+msgid "Open"
+msgstr ""
+
+#: ../tools.php:5662 ../tools.php:5690
+msgid "(No Slider Found)"
+msgstr ""
+
+#: ../tools.php:6225
+msgid "See Event"
+msgstr ""
+
+#: ../tools.php:6270
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../tools.php:6275
+#, php-format
+msgid "<cite class=\"tm-comment-owner fn\">%s</cite> <span class=\"says\">says:</span>"
+msgstr ""
+
+#: ../tools.php:6280
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../tools.php:6280
+msgid "(Edit)"
+msgstr ""
+
+#: ../tools.php:6777
+msgid "Back to results"
+msgstr ""
+
+#: ../tools.php:6779
+msgid "View more"
+msgstr ""
+
+#: ../tools.php:6790
+#, php-format
+msgid "Search results for %s"
+msgstr ""
+
+#: ../tools.php:6813
+msgid "All selections"
+msgstr ""
+
+#: ../tools.php:6814
+msgid "Pages"
+msgstr ""
+
+#: ../tools.php:6815
+msgid "Blog posts"
+msgstr ""
+
+#: ../tools.php:6856
+msgid "You searched for"
+msgstr ""
+
+#: ../tools.php:6862
+msgid "Settings"
+msgstr ""
+
+#: ../tools.php:6870
+msgid "Search in:"
+msgstr ""
+
+#: ../tools.php:6874
+msgid "Search now"
+msgstr ""
+
+#: ../vc/themetechmount_attach_image/themetechmount_attach_image.php:32
+msgid "Add image"
+msgstr ""
+
+#: ../vc/themetechmount_attach_image/themetechmount_attach_image.php:35
+msgid "Add images"
+msgstr ""
+
+#: ../vc/themetechmount_responsive_editor/themetechmount_responsive_editor.php:118
+#: ../vc/themetechmount_responsive_editor/themetechmount_responsive_editor.php:120
+msgid "Break Column in this (and below) screen size."
+msgstr ""
+
+#: ../widgets/all-posts-list.php:15
+msgid "Show All Post List of current Taxonomy."
+msgstr ""
+
+#: ../widgets/all-posts-list.php:18
+msgid "Fablio All Post List Widget"
+msgstr ""
+
+#: ../widgets/all-posts-list.php:37
+msgid "Posts"
+msgstr ""
+
+#: ../widgets/all-posts-list.php:211 ../widgets/recent-posts-widget.php:192
+msgid "Title:"
+msgstr ""
+
+#: ../widgets/all-posts-list.php:214 ../widgets/recent-posts-widget.php:195
+msgid "Number of posts to show:"
+msgstr ""
+
+#: ../widgets/category-list.php:15
+msgid "Show Category List of current Taxonomy."
+msgstr ""
+
+#: ../widgets/category-list.php:18
+msgid "Fablio Category/Group List Widget"
+msgstr ""
+
+#: ../widgets/category-list.php:87 ../widgets/contact-widget.php:251
+#: ../widgets/flicker-widget.php:179
+msgid "Title"
+msgstr ""
+
+#: ../widgets/contact-widget.php:15
+msgid "Show Contact details with icons."
+msgstr ""
+
+#: ../widgets/contact-widget.php:33
+msgid "Fablio Contact Widget"
+msgstr ""
+
+#: ../widgets/contact-widget.php:271
+msgid "Address"
+msgstr ""
+
+#: ../widgets/contact-widget.php:276
+msgid "Time"
+msgstr ""
+
+#: ../widgets/flicker-widget.php:15
+msgid "Show photos from Flickr."
+msgstr ""
+
+#: ../widgets/flicker-widget.php:33
+msgid "Fablio Flickr Widget"
+msgstr ""
+
+#: ../widgets/recent-posts-widget.php:10
+msgid "Your site&#8217;s most recent Posts."
+msgstr ""
+
+#: ../widgets/recent-posts-widget.php:11
+msgid "Fablio Recent Posts"
+msgstr ""
+
+#: ../widgets/recent-posts-widget.php:27
+msgid "Recent Posts"
+msgstr ""

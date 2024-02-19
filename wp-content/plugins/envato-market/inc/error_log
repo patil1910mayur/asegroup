@@ -1,0 +1,16 @@
+[11-Oct-2023 00:47:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/asegroup/public_html/wp-content/plugins/envato-market/inc/class-envato-market-github.php:379
+Stack trace:
+#0 {main}
+  thrown in /home/asegroup/public_html/wp-content/plugins/envato-market/inc/class-envato-market-github.php on line 379
+[11-Oct-2023 08:10:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/asegroup/public_html/wp-content/plugins/envato-market/inc/class-envato-market-github.php:379
+Stack trace:
+#0 {main}
+  thrown in /home/asegroup/public_html/wp-content/plugins/envato-market/inc/class-envato-market-github.php on line 379
+[11-Oct-2023 17:21:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/asegroup/public_html/wp-content/plugins/envato-market/inc/class-envato-market-github.php:379
+Stack trace:
+#0 {main}
+  thrown in /home/asegroup/public_html/wp-content/plugins/envato-market/inc/class-envato-market-github.php on line 379
+[11-Oct-2023 17:21:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/asegroup/public_html/wp-content/plugins/envato-market/inc/class-envato-market-github.php:379
+Stack trace:
+#0 {main}
+  thrown in /home/asegroup/public_html/wp-content/plugins/envato-market/inc/class-envato-market-github.php on line 379
